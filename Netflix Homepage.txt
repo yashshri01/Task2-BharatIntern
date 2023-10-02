@@ -1,0 +1,6 @@
+Task-2
+Task Name:	Homepage of Netflix
+Description:	A simple website having similar homepage
+		that of Netflix using using HTML and
+		CSS.
+Language Used: 	HTML,CSS
